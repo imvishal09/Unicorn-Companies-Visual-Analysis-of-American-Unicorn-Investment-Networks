@@ -68,8 +68,3 @@ This network showcases Indian investors and their shared investments. Central hu
 
 ---
 
-## How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/imvishal09/Unicorn-Companies-Visual-Analysis-of-American-Unicorn-Investment-Networks.git
