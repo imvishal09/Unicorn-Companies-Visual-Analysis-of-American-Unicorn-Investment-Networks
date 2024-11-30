@@ -1,4 +1,4 @@
-# Portfolio: Visual Analysis Projects
+# Visual Analytics Projects
 
 ## Unicorn Companies: Visual Analysis of American Unicorn Investment Networks
 
