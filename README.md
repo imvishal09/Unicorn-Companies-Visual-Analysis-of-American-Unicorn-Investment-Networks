@@ -1,6 +1,6 @@
-### Visual Analysis Projects
+# Portfolio: Visual Analysis Projects
 
-### Unicorn Companies: Visual Analysis of American Unicorn Investment Networks
+## Unicorn Companies: Visual Analysis of American Unicorn Investment Networks
 
 ### Project Overview
 This project explores the relationships between American unicorn companies and their investors using a visual network analysis approach. By analyzing the connections within the investment ecosystem, the project uncovers industry patterns, potential partnerships, and key influencers.
@@ -18,7 +18,7 @@ The project utilized the [Unicorn Companies Dataset](https://www.kaggle.com/data
 ## Visualizations
 
 ### Visualization 1: Force Atlas Layout (Unicorn Companies)
-![Visualization 1 - Force Atlas Layout](./images/visualization1-force-atlas.png)
+![Visualization 1 - Force Atlas Layout](https://github.com/imvishal09/Unicorn-Companies-Visual-Analysis-of-American-Unicorn-Investment-Networks/blob/main/Graph%20Visulaisation%201.jpg)
 
 **Description:**  
 This graph visualizes relationships between American unicorn companies based on shared investors. Node size indicates significance (e.g., dbt Labs is the largest node), and nodes are grouped into clusters by shared investor connections. Colors distinguish different clusters.
@@ -26,7 +26,7 @@ This graph visualizes relationships between American unicorn companies based on 
 ---
 
 ### Visualization 2: Fruchterman-Reingold Layout (Unicorn Companies)
-![Visualization 2 - Fruchterman-Reingold Layout](./images/visualization2-fruchterman-reingold.png)
+![Visualization 2 - Fruchterman-Reingold Layout](https://github.com/imvishal09/Unicorn-Companies-Visual-Analysis-of-American-Unicorn-Investment-Networks/blob/main/Graph%20Visualisation%202.jpg)
 
 **Description:**  
 This graph highlights investor relationships for American unicorn companies, showing connections between commonly invested companies. Weighted edges indicate relationship strength, with thicker edges representing stronger ties. The layout optimizes clarity and visual appeal.
@@ -48,7 +48,7 @@ The project uses a curated dataset of Indian investment relationships, focusing 
 ---
 
 ### Visualization 3: Fruchterman-Reingold Layout (Indian Investment Ecosystem)
-![Visualization 3 - Indian Investor Network](./images/visualization3-indian-investors.png)
+![Visualization 3 - Indian Investor Network](https://github.com/imvishal09/Unicorn-Companies-Visual-Analysis-of-American-Unicorn-Investment-Networks/blob/main/Graph%20Visualisaton%203.jpg)
 
 **Description:**  
 This network showcases Indian investors and their shared investments. Central hubs like Sequoia Capital India and Tiger Global Management are visually prominent due to their extensive connections. Colors represent different communities, while edge thickness indicates the strength of investor relationships.
@@ -66,3 +66,10 @@ This network showcases Indian investors and their shared investments. Central hu
   - Fundraising Strategy: Startups can identify key investors and potential co-investment opportunities to enhance their fundraising efforts.
   - Industry Preferences: Highlights commonalities among investors, aiding in industry trend analysis.
 
+---
+
+## How to Run
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/imvishal09/Unicorn-Companies-Visual-Analysis-of-American-Unicorn-Investment-Networks.git
